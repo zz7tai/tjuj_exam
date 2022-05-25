@@ -8,3 +8,16 @@
 
 <img src="README/image-20220525135954879.png#center" width="50%">
 
+
+
+### 使用教程
+
+#### 日常使用
+
+1. 点击右上角绿色的code
+2. 点击Download ZIP （如果下载速度慢可能需要代理工具）
+
+#### 使用git
+
+1. 打开 git 工具
+2. git clone 本项目
